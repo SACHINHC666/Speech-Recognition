@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right, white, black);
+
+}
+
+p {
+    color: white;
+    font-size: 25px;
+}
